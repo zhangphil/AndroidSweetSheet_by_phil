@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="C:\developer\code\Demo\NineOldAndroids\assets"/><source path="C:\developer\code\Demo\NineOldAndroids\build\generated\assets\shaders\debug"/></dataSet><dataSet config="debug"><source path="C:\developer\code\Demo\NineOldAndroids\build-types\debug\assets"/></dataSet></merger>
